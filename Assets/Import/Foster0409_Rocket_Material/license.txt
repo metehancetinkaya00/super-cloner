@@ -1,0 +1,11 @@
+Model Information:
+* title:	Foster0409 Rocket Material
+* source:	https://sketchfab.com/3d-models/foster0409-rocket-material-4140d1cf86264778814fa2c93dfa8c70
+* author:	DF130624 (https://sketchfab.com/DF130624)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Foster0409 Rocket Material" (https://sketchfab.com/3d-models/foster0409-rocket-material-4140d1cf86264778814fa2c93dfa8c70) by DF130624 (https://sketchfab.com/DF130624) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
